@@ -1,3 +1,8 @@
+
+<!-- in your header -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+
+
 ### Hi there
 ## नमस्ते
 ![](https://komarev.com/ghpvc/?username=mandeephub&color=blue)
@@ -10,5 +15,5 @@ Now a days im learnign React sooon you'll be getting links to my react apps
 
 ## Technologies I work on  
 
-
-
+<!-- in your body -->
+<i class="devicon-devicon-plain"></i>
