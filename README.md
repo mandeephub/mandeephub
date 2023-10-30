@@ -9,7 +9,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mandeephub)](https://github.com/anuraghazra/github-readme-stats)
 
-Currently woring as a Lead front-end webdeveloper @ <a href="https://www.webindiainc.com/">WEBINDIAINC</a>
+Currently woring as a Senior Executive developer @ <a href="https://obbserv.com/" target="blank">OBBSERV</a>
 
 Now a days im learnign React sooon you'll be getting links to my react apps
 
