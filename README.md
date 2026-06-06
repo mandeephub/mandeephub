@@ -34,6 +34,6 @@ Node.js + MongoDB
 
 Portfolio: https://mandeephub.github.io
 
-LinkedIn: YOUR_LINKEDIN
+LinkedIn: https://www.linkedin.com/in/mandeephub/
 
 Email: suggestions.live@gmail.com
