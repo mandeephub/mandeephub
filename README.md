@@ -42,3 +42,18 @@ Email: suggestions.live@gmail.com
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mandeephub&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mandeephub)
+
+## Tech Stack
+
+HTML
+CSS
+JavaScript
+React
+Next.js
+Node.js
+Express
+MongoDB
+WordPress
+PHP
+Git
+GitHub
